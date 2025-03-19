@@ -1,0 +1,39 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: content-box;
+    ;
+}
+
+header {
+    text-align: center;
+}
+
+.input-form {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid lightgreen;
+}
+
+.today-work {
+    text-align: center;
+    border: 1px solid blue;
+}
+
+.today-work ul {
+    list-style: none;
+}
+
+.today-progress {
+    text-align: center;
+    border: 1px solid red;
+}
+
+
+.work-list {
+    text-align: center;
+}
+
+.work-list ul {
+    list-style: none;
+}
